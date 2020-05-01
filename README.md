@@ -1,7 +1,7 @@
 Project-1 (Music Buster)
 
 URL Links:
-1. https://github.com/NMantohac/Project_1
+1. https://github.com/naryan/project_1
 2. https://nmantohac.github.io/Project_1/
 Description:
 The purpose of this project was to create a platform aims to get all of the information regarding an artist, their albums, and their top songs.
